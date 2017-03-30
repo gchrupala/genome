@@ -1,0 +1,7 @@
+Caucasus
+Northwestern
+Northeastern
+Southeastern
+African
+Far_Asian
+Southwestern
